@@ -1,0 +1,4 @@
+aiohttp
+ccxt
+sqlalchemy
+psycopg2-binary # sqlalchemy dep
